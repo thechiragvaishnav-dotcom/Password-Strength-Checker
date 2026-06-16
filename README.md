@@ -5,6 +5,7 @@
 - [Step 1: Setting Up the Project](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-1-setting-up-the-project)
 - [Step 2: Understanding How the Password Strength Checker Works](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-2-understanding-how-the-password-strength-checker-works)
 - [Step 3: Importing Required Modules](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-3-importing-required-modules)
+- [Step 4: Implementing Password Entropy Calculation](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-4-implementing-password-entropy-calculation)
 
 ## Prerequisites
 [![VS Code](https://img.shields.io/badge/Download-VS_Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/Download)
@@ -104,3 +105,7 @@ Entropy is a **scientific measure** of password strength. Instead of just checki
 By using entropy-based evaluation, we provide a **better security analysis** rather than just counting characters.
 
 Now that we have password entropy in place, let’s proceed to evaluating password strength and user feedback.
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
+
+## 
