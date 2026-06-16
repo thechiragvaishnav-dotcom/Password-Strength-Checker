@@ -17,3 +17,7 @@
   - <code>Leftt-click</code> on Open PowerShell window here
 
      ![](images/image2.png)
+- Inside that Power Shell Terminal
+  - type <code>code .</code> + <code>Enter</code>
+
+     ![](images/image3.png)
