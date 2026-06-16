@@ -23,9 +23,11 @@
 
      ![](images/image3.png)
     - VS Code will open if not do it manually
-- Inside that VS Code <code>Left-click</code> on <code>yes, I trust this authors</code> & Create New File
+- Inside that VS Code <code>Left-click</code> on <code>Yes, I trust this authors</code>
 
    ![](images/image6.png)
+
+- Create New File
   
    ![](images/image4.png)
 - Name it "password_checker.py" or anything you want + <code>Enter</code> to Create
