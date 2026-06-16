@@ -21,3 +21,7 @@
   - type <code>code .</code> + <code>Enter</code>
 
      ![](images/image3.png)
+    - VS Code will open if not do it manually
+- Inside that VS Code Create New File
+  
+   ![](images/image4.png)
