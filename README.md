@@ -49,4 +49,16 @@ Our program will:
 
 We need three Python modules:
 
+<pre><code>
+import string  
+import getpass  
+import math
+</code></pre>
+  
 ![](images/image7.png)
+- **Why Do We Use These Modules?**
+  - **string** → Provides predefined character sets (lowercase, uppercase, digits, special characters).
+  - **getpass** → Allows secure password entry without displaying it on the screen.
+  - **math** → Used to calculate password entropy for strength evaluation.
+
+Now that we have our required modules, let's move on to [defining our functions](https://hackr.io/blog/python-define-function).
