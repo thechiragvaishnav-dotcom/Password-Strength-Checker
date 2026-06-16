@@ -25,3 +25,6 @@
 - Inside that VS Code Create New File
   
    ![](images/image4.png)
+- Name it "password_checker.py" or anything you want + <code>Enter</code> to Create
+
+   ![](images/image5.png)
