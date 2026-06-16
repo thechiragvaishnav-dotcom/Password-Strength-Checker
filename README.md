@@ -4,7 +4,7 @@
 - []()
 
 ## Prerequisites
-- [![VS Code](https://img.shields.io/badge/Download-VS_Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/Download)
+[![VS Code](https://img.shields.io/badge/Download-VS_Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/Download)
 
 ## Step 1: Setting Up the Project
 - Create a Folder on your Desktop name Password-Strength-Checker
