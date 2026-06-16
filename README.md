@@ -10,6 +10,6 @@
     ![](images/image1.png)
 - Open that Folder & inside that Folder we need to Open Power Shell Terminal 
   - <code>Shift</code> + <code>Right-click</code>
-  - <code>Leftt-click</code> on Open PowerShell window here\
+  - <code>Leftt-click</code> on Open PowerShell window here
 
      ![](images/image2.png)
