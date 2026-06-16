@@ -208,4 +208,4 @@ By using this structure, we keep the program **organized, user-friendly, and mai
 
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
 
-## [Final Code: Password Strength Checker](
+## [Final Code: Password Strength Checker](password_checker.py)
