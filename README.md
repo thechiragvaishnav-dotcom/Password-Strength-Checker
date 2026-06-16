@@ -31,3 +31,18 @@
    ![](images/image5.png)
 
 ## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
+
+## Step 2: Understanding How the Password Strength Checker Works
+**Our program will:**
+- Prompt the user to enter a password securely using getpass.
+- Evaluate the password’s strength based on length, character variety, and entropy.
+- Provide feedback on password quality and improvements.
+- Allow the user to check multiple passwords in a loop until they decide to exit.
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
+
+## Step 3: Importing Required Modules
+
+We need three Python modules:
+
+![](images/image7.png)
