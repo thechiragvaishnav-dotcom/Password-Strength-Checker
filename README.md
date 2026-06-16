@@ -28,3 +28,5 @@
 - Name it "password_checker.py" or anything you want + <code>Enter</code> to Create
 
    ![](images/image5.png)
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
