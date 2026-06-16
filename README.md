@@ -3,6 +3,9 @@
 ## Content
 - []()
 
+## Prerequisites
+- 
+
 ## Step 1: Setting Up the Project
 - Create a Folder on your Desktop name Password-Strength-Checker
   - <code>Right-click</code>
