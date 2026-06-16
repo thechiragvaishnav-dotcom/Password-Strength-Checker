@@ -55,7 +55,6 @@ import getpass
 import math
 </code></pre>
   
-![](images/image7.png)
 - **Why Do We Use These Modules?**
   - **string** → Provides predefined character sets (lowercase, uppercase, digits, special characters).
   - **getpass** → Allows secure password entry without displaying it on the screen.
