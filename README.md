@@ -147,3 +147,65 @@ Now, let's implement the function that analyzes password strength and provides f
     print(f" Entropy Score: {entropy:.2f} bits")
     print(f" Remarks: {remarks}\n")
 </code></pre>
+
+**How It Works:**
+- **Analyzes password diversity** by counting lowercase, uppercase, digits, special characters, and whitespace.
+- **Uses entropy score** to classify the strength of the password.
+- **Provides clear feedback** on how secure the password is via various [Python f-strings](https://hackr.io/blog/python-f-strings).
+
+By implementing this analysis, users get a **comprehensive breakdown** of their password’s security level.
+
+Now that we can evaluate password strength, let’s move on to looping the process for multiple checks.
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
+
+## Step 6: Looping for Multiple Checks
+To allow users to check multiple passwords, we add a while loop:
+
+<pre><code>def check_another_password():
+    """Asks the user if they want to check another password."""
+    while True:
+        choice = input(" Do you want to check another password? (y/n): ").strip().lower()
+        if choice == 'y':
+            return True
+        elif choice == 'n':
+            print(" Exiting... Stay secure!")
+            return False
+        else:
+            print(" Invalid input. Please enter 'y' or 'n'.")
+</code></pre>
+
+**How It Works:**
+- **Continuously prompts** users to check another password.
+- **Ensures only valid responses** (**y** for yes, **n** for no) are accepted.
+- **Provides a smooth user experience** by keeping the program interactive.
+
+By implementing this, users can evaluate multiple passwords in a single session.
+
+Now that we have an interactive password checker, let’s move on to finalizing the program execution.
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
+
+## Step 7: Running the Program
+Finally, we ensure the script runs correctly when executed:
+
+<pre><code>if __name__ == '__main__':
+    print("=====  Welcome to Password Strength Checker  =====")
+    check_password_strength()
+    while check_another_password():
+        check_password_strength()
+</code></pre>
+
+**Why Is This Needed?**
+
+Ensures the script runs only when executed directly.
+
+Prevents unintended execution when imported as a module.
+
+Creates a structured workflow that loops through password checks.
+
+By using this structure, we keep the program **organized, user-friendly, and maintainable**. Now, your **password strength checker** is fully functional and ready to use.
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
+
+## [Final Code: Password Strength Checker](
