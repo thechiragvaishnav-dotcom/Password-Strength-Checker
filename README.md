@@ -3,6 +3,8 @@
 ## Content
 - [Prerequisites](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#prerequisites)
 - [Step 1: Setting Up the Project](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-1-setting-up-the-project)
+- [Step 2: Understanding How the Password Strength Checker Works](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-2-understanding-how-the-password-strength-checker-works)
+- [
 
 ## Prerequisites
 [![VS Code](https://img.shields.io/badge/Download-VS_Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/Download)
