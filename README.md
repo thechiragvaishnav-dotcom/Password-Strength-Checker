@@ -201,12 +201,9 @@ Finally, we ensure the script runs correctly when executed:
 </code></pre>
 
 **Why Is This Needed?**
-
-Ensures the script runs only when executed directly.
-
-Prevents unintended execution when imported as a module.
-
-Creates a structured workflow that loops through password checks.
+- Ensures the script runs only when executed directly.
+- Prevents unintended execution when imported as a module.
+- Creates a structured workflow that loops through password checks.
 
 By using this structure, we keep the program **organized, user-friendly, and maintainable**. Now, your **password strength checker** is fully functional and ready to use.
 
