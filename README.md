@@ -51,8 +51,7 @@ Our program will:
 
 We need three Python modules:
 
-<pre><code>
-import string  
+<pre><code>import string 
 import getpass  
 import math
 </code></pre>
