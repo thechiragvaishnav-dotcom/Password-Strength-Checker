@@ -1,6 +1,7 @@
 # Password Strength Checker
 
 ## Content
+- [Prerequisites](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#prerequisites)
 - []()
 
 ## Prerequisites
