@@ -9,7 +9,7 @@
 - [Step 5: Checking Password Strength](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-5-checking-password-strength)
 - [Step 6: Looping for Multiple Checks](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-6-looping-for-multiple-checks)
 - [Step 7: Running the Program](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-7-running-the-program)
-- [Final Code: Password Strength Checker](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#final-code-password-strength-checker)
+- [Final Code: Password Strength Checker](password_checker.py)
 
 ## Prerequisites
 [![VS Code](https://img.shields.io/badge/Download-VS_Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/Download)
