@@ -69,8 +69,7 @@ Now that we have our required modules, let's move on to [defining our functions]
 
 Let's start by writing the core password evaluation functions.
 
-<pre><code>
-MIN_LENGTH = 8  
+<pre><code>MIN_LENGTH = 8
 
 def calculate_entropy(password):
     """Calculates entropy based on character diversity and length."""
