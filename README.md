@@ -212,7 +212,11 @@ By using this structure, we keep the program **organized, user-friendly, and mai
 ## [Final Code: Password Strength Checker](password_checker.py)
 
 ## Running this code
-- Open that Folder on your Desktop
+- Open that Folder on your Desktop again
 
    ![](images/image7.png)
   
+- <code>Shift</code> + <code>Right-click</code>
+- <code>Leftt-click</code> on Open PowerShell window here
+
+   ![](images/image2.png)
