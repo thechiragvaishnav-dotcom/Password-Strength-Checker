@@ -10,6 +10,7 @@
 - [Step 6: Looping for Multiple Checks](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-6-looping-for-multiple-checks)
 - [Step 7: Running the Program](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#step-7-running-the-program)
 - [Final Code: Password Strength Checker](password_checker.py)
+- [Running this code](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#running-this-code)
 
 ## Prerequisites
 [![VS Code](https://img.shields.io/badge/Download-VS_Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/Download)
@@ -225,3 +226,5 @@ By using this structure, we keep the program **organized, user-friendly, and mai
   - type <code>code .\password_checker.py</code> + <code>Enter</code>
 
      ![](images/image8.png)
+
+## [Back to Content](https://github.com/thechiragvaishnav-dotcom/Password-Strength-Checker#content)
