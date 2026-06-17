@@ -214,5 +214,5 @@ By using this structure, we keep the program **organized, user-friendly, and mai
 ## Running this code
 - Open that Folder on your Desktop
 
-   ![](images/image6.png)
+   ![](images/image7.png)
   
