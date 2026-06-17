@@ -220,3 +220,8 @@ By using this structure, we keep the program **organized, user-friendly, and mai
 - <code>Leftt-click</code> on Open PowerShell window here
 
    ![](images/image2.png)
+
+- Inside that Power Shell Terminal
+  - type <code>code .\password_checker.py</code> + <code>Enter</code>
+
+     ![](images/image8.png)
